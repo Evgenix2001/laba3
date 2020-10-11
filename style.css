@@ -1,0 +1,35 @@
+header{
+	border: 5px solid green;
+	background-color:blue;
+	height:50px;
+    width: 200px;
+    padding:20px;
+}
+ div{
+	border: 5px solid green;
+	background-color:gray;
+	height:50px;
+    width: 200px;
+   }
+   aside {
+   	border: 5px solid green;
+	background-color:pink;
+	height:50px;
+    width: 200px;
+    overflow:visible;
+    padding:0px;
+	}
+main {
+	border: 5px solid green;
+	background-color:yellow;
+	height:50px;
+    width: 200px;
+    padding:0px;
+}
+ footer{
+	border: 5px solid green;
+	background-color:red;
+	height:50px;
+    width: 200px;
+    padding:20px;
+}
